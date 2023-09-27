@@ -1,0 +1,51 @@
+.header {
+    width: 450px;
+
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 30px;
+    padding-left: 30px;
+}
+
+.header-link {
+    width: 160px;
+    height: 160px;
+    background-color: rgb(127, 33, 33);
+    border-radius: 50%;
+    box-shadow: 0 0 0 5px rgb(15, 14, 14), inset 0 0 0 3px rgb(252, 251, 253);
+}
+
+.bir {
+    display: block;
+    width: 40px;
+    height: 40px;
+    background-color: #360404;
+    box-shadow: 0 0 0 4px mediumblue;
+    border-radius: 50%;
+    margin-top: 140px;
+    margin-left: 60px;
+
+    
+}
+
+.header-hero {
+    width: 160px;
+    height: 160px;
+    background-color: rgb(41, 9, 9);
+    border-radius: 50%;
+    box-shadow: 0 0 0 5px rgb(68, 24, 24), inset 0 0 0 3px rgb(252, 251, 253);
+}
+
+.ikki {
+    display: block;
+    width: 40px;
+    height: 40px;
+    background-color: #c84343;
+    box-shadow: 0 0 0 4px rgb(203, 212, 19);
+    border-radius: 50%;
+    margin-top: 140px;
+    margin-left: 60px;
+}
